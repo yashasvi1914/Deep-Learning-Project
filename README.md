@@ -1,2 +1,2 @@
 # Deep-Learning-Project
-This Repo contain my Deep  Learning Projects
+ Deep learning projects using TensorFlow and Keras, exploring neural networks, model training, evaluation, and computer vision applications.
