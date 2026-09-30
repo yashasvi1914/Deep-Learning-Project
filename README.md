@@ -1,2 +1,3 @@
 # Deep-Learning-Project
-This Repo contain my Deep  Learning Projects
+Practical machine learning projects covering preprocessing,
+EDA, feature engineering, classification and regression.
