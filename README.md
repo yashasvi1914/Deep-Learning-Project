@@ -1,3 +1,3 @@
 # Deep-Learning-Project
-Practical machine learning projects covering preprocessing,
-EDA, feature engineering, classification and regression.
+Deep learning experiments using TensorFlow and Keras,
+including neural networks and computer vision applications.
